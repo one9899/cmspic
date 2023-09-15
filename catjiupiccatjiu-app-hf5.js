@@ -1,1 +1,1 @@
-document.writeln("<a target=\'_blank\' href=\'http://app.51taoni.com/appapi/Agent/downapp?code=R1E851'><img src=\'https://121745-1310386001.cos.ap-chengdu.myqcloud.com/555.gif' alt=\'\' height=\'150px\'></a>");
+document.writeln("<a target=\'_blank\' href=\'http://app.51taoni.com/appapi/Agent/downapp?code=R1E851'><img src=\'https://' alt=\'\' height=\'150px\'></a>");
